@@ -1,0 +1,19 @@
+{
+  "name": "trentose2febexam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattiarizzardi/trentose2febexam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattiarizzardi/trentose2febexam/issues"
+  },
+  "homepage": "https://github.com/mattiarizzardi/trentose2febexam#readme"
+}
